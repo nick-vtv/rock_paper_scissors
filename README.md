@@ -1,2 +1,2 @@
-# rock_paper_scissors
+# Rock - Paper - Scissors
 A simple console game Rock-Paper-Scissors
